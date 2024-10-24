@@ -1,5 +1,12 @@
 # ESRGAN Upscaler
 
+original frame
+![frame_0001](https://github.com/user-attachments/assets/c4560dbc-72c5-467c-a468-55aec30bff6c)
+
+upscaled frame
+![frame_0001_out-c](https://github.com/user-attachments/assets/35b25f22-017d-49c4-993e-0cd47864b688)
+
+
 This repository contains an implementation of Real-ESRGAN, a practical algorithm for super-resolution of images.
 
 ## Prerequisites
